@@ -1,1 +1,1 @@
-xyz arrays 
+rtf compiles to .rtfcx
